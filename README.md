@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Developer**
 
-- 🤝 I’m looking for help with [@Adnan](https://github.com/v500nm)
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ritesh-sharma-0b63bb239/](https://www.linkedin.com/in/ritesh-sharma-0b63bb239/)
 
 - 💬 Ask me about **Angular, Js, Ts ,C#,C**
